@@ -19,7 +19,7 @@ const Home = () => {
                         >
                           <b className="is-hidden">Developer </b>
                           <b className="is-hidden">Designer</b>
-                          <b className="is-visible">Data</b>
+                          <b className="is-visible">Devops</b>
                         </span>
                       </h1>
                       <div className="about-social-icon text-center">
